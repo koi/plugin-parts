@@ -72,7 +72,7 @@
 \include "../lyInclude/lyInclude/definitions.ily"
 \include "../lyInclude/lyInclude/jazzChords.ily"
 \include "../lyInclude/lyInclude/copyright.ily"
-\include "../settings.ily"
+\include "../../settings.ily"
 \include "../../header.ily"
 
 partLineBreak = { \break }
